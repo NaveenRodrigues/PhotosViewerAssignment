@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotosViewerAssignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wifi_enabled">Wifi enabled</string>
+    <string name="mobile_data_enabled">Mobile data enabled</string>
+    <string name="no_internet_avilable">No internet is available</string>
+</resources>
